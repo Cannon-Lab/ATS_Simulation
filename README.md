@@ -1,4 +1,4 @@
-# ATS_Simulation
+## ATS_Simulation
 
  This repo provides the parameter file (Muscle_ATS.xlsx) and simulation tips to generate the Figures from our study, "**Potassium-sensitive loss of muscle force in the setting of reduced inward rectifier K current: implications for Andersen Tawil Syndrome**" by Elia et al. (https://www.pnas.org/doi/abs/10.1073/pnas.2418021122)
 
